@@ -1,0 +1,10 @@
+#chart {
+  background: rgba(255, 0, 0, 0.1);
+  height: 500px;
+  width: 800px;
+}
+
+.centeredDiv {
+  display: flex;
+  justify-content: center;
+}
